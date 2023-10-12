@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Chikkaswamygowda</h1>
-<h3 align="center">A Master Graduate with passion towards solving problem with data.</h3>
+<h3 align="center">A Master Graduate with passion towards solving problem using data.</h3>
 
 - 🌱 I’m currently learning **DP-500 : Azure Enterprise Data Analyst Certification**
 
