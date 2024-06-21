@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adarsh Chikkaswamygowda</h1>
 <h3 align="center">A Master Graduate with passion towards solving problem using data.</h3>
 
-- 🌱 I’m currently learning **DP-500 : Azure Enterprise Data Analyst Certification**
+- 🌱 Recently trained in **DP-500 : Azure Enterprise Data Analyst Certification**
 
 - 👨‍💻 All of my projects are available at [https://adarshcgowda.github.io/Portfolio/](https://adarshcgowda.github.io/Portfolio/)
 
-- 💬 About me **Dedicate data professional with Master Degree and over 2 years of experience in translating raw data into actionable insights.**
+- 💬 About me **Dedicated data professional with MSc. Sustainable Technology 
 
 - 📫 How to reach me **gowdaadarshc@gmail.com**
 
